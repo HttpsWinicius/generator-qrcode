@@ -1,0 +1,20 @@
+{
+    "name": "qr-code",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "next start",
+        "dev": "next",
+        "build": "next build"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "next": "^10.0.5",
+        "qrcode-svg": "^1.1.0",
+        "react": "^17.0.1",
+        "react-dom": "^17.0.1"
+    }
+}
